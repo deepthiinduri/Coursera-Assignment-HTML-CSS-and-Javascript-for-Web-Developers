@@ -1,2 +1,2 @@
-# deepthiinduricoursera.github.io
+# coursera
 coursera
